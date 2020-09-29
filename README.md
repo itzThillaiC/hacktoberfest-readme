@@ -24,17 +24,17 @@ Short description about the project.
 ---
  * Fork the repository by clicking the fork button on top right corner of the page
  * Clone the target repository. To clone, click on the clone button and copy the https address. Then run 
- <pre><code>git clone HTTPS-ADDRESS</code></pre>
+ <pre><code>git clone [HTTPS-ADDRESS]</code></pre>
 * Go to the cloned directory by running 
-<pre><code>cd NAME-OF-REPO</code></pre>
+<pre><code>cd [NAME-OF-REPO]</code></pre>
 * Create a new branch. Use 
-<pre><code> git checkout -b YOUR-BRANCH-NAME</code></pre>
+<pre><code> git checkout -b [YOUR-BRANCH-NAME]</code></pre>
 * Make your changes to the code. Add changes to your branch by using 
-<pre><code> git add . </code></pre>
+<pre><code>git add .</code></pre>
 * Commit the chanes by executing
-<pre><code> git commit -m "your msg"</code></pre>
+<pre><code>git commit -m "your msg"</code></pre>
 * Push to remote. To do this, run 
-<pre><code> git push origin YOUR-BRANCH-NAME</code></pre>
+<pre><code>git push origin [YOUR-BRANCH-NAME]</code></pre>
 * Create a pull request. Go to the target repository and click on on the "Compare & pull request" button. Add some details about your work and click on sumbit. 
 * Wait for your request to be accepted. 
 
@@ -43,7 +43,7 @@ Short description about the project.
 _general guidelines_
   * Avoid pull requests that :
       * are automated or scripted
-      * that are plagarized from from some else's branch
+      * that are plagarized from from someone else's branch
   * Do not spam
   * Project maintainer's decision on validity of pr is final.
 
