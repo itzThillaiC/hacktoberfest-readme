@@ -27,8 +27,8 @@ Short description about the project.
  <pre><code>git clone HTTPS-ADDRESS</code></pre>
 * Go to the cloned directory by running 
 <pre><code>cd NAME-OF-REPO</code></pre>
-* Create a new branch. Use git checkout
-<pre><code> -b YOUR-BRANCH-NAME</code></pre>
+* Create a new branch. Use 
+<pre><code> git checkout -b YOUR-BRANCH-NAME</code></pre>
 * Make your changes to the code. Add changes to your branch by using 
 <pre><code> git add . </code></pre>
 * Commit the chanes by executing
