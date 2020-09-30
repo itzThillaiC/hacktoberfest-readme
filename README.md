@@ -1,4 +1,4 @@
-<h1 align="center">Kicking Off Hacktoberfest with ACM-VIT!</h1>
+<h1 align="center"><a href="https://organize.mlh.io/participants/events/4390-kickstarting-hacktoberfest-with-acm-vit">Kicking Off Hacktoberfest with ACM-VIT!</a></h1>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Malika01/hacktoberfest-readme/master/Frame%202.png">
 </p>
@@ -45,7 +45,7 @@ Short description about the project.
       * are automated or scripted
       * that are plagarized from someone else's branch
   * Do not spam
-  * Project maintainer's decision on validity of pr is final.
+  * Project maintainer's decision on validity of PR is final.
 
   For additional guidelines, refer to [participation rules](https://hacktoberfest.digitalocean.com/details#rules)
 
@@ -59,14 +59,6 @@ Short description about the project.
 The overview starts here. Random text about the project, motive, how, what, why etc.
 
 ---
-
-## Screenshots
-
-<!-- Add one screenshot of your project (max height: 1000px, max size: 1mb) 'if applicable' under assets folder in root of your project ![sceenshot](assets/<name of image>) -->
-<!-- if your project has multiple pictures , merge them into one image using a tool similar to figma -->
-
----
-
 ## Usage
 <!-- How To, Features, Installation etc. as subheadings in this section. example-->
 
@@ -78,7 +70,6 @@ git merge
 ```
 
 ---
-
 ## Authors
 
 **Authors:** <!-- [author1's name](link to their github profile), [author2's name](link to their github profile) .. -->  
