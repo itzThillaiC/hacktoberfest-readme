@@ -1,6 +1,6 @@
 <h1 align="center">Kicking Off Hacktoberfest with ACM-VIT!</h1>
 <p align="center">
-<img src="https://i0.wp.com/wp.laravel-news.com/wp-content/uploads/2020/09/hacktoberfest2020.jpg?fit=2200%2C1100&ssl=1?resize=2200%2C1125" width="800" height="400">
+<img src="https://i0.wp.com/wp.laravel-news.com/wp-content/uploads/2020/09/hacktoberfest2020.jpg?fit=2200%2C1100&ssl=1?resize=2200%2C1125" width="80%">
 </p>
 
 <h2 align="center"> PROJECT TITLE </h2>
@@ -18,10 +18,9 @@ Short description about the project.
     <!-- forks/stars/tech stack in the form of badges from https://shields.io/ -->
 </p>
 
-
+---
 ## Submission of Pull Request
 
----
  * Fork the repository by clicking the fork button on top right corner of the page
  * Clone the target repository. To clone, click on the clone button and copy the https address. Then run 
  <pre><code>git clone [HTTPS-ADDRESS]</code></pre>
@@ -35,15 +34,16 @@ Short description about the project.
 <pre><code>git commit -m "your msg"</code></pre>
 * Push to remote. To do this, run 
 <pre><code>git push origin [YOUR-BRANCH-NAME]</code></pre>
-* Create a pull request. Go to the target repository and click on on the "Compare & pull request" button. Add some details about your work and click on sumbit. 
+* Create a pull request. Go to the target repository and click on the "Compare & pull request" button. Add some details about your work and click on sumbit. 
 * Wait for your request to be accepted. 
 
+---
 ## Guidelines for Pull Request
 
-_general guidelines_
+<!-- general guidelines here -->
   * Avoid pull requests that :
       * are automated or scripted
-      * that are plagarized from from someone else's branch
+      * that are plagarized from someone else's branch
   * Do not spam
   * Project maintainer's decision on validity of pr is final.
 
@@ -51,7 +51,7 @@ _general guidelines_
 
 ---
 
-_domain specific guidelines_
+-_domain specific guidelines here_-
   
 ---
 ## Overview
