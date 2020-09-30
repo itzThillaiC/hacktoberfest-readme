@@ -1,6 +1,6 @@
 <h1 align="center">Kicking Off Hacktoberfest with ACM-VIT!</h1>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Malika01/hacktoberfest-readme/master/Frame%202.png" width="95%">
+<img src="https://raw.githubusercontent.com/Malika01/hacktoberfest-readme/master/Frame%202.png">
 </p>
 
 <h2 align="center"> PROJECT TITLE </h2>
