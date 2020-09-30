@@ -19,7 +19,7 @@ Short description about the project.
 </p>
 
 ---
-## Submission of Pull Request
+## Submitting a Pull Request
 
  * Fork the repository by clicking the fork button on top right corner of the page
  * Clone the target repository. To clone, click on the clone button and copy the https address. Then run 
