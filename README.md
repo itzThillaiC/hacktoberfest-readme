@@ -1,6 +1,6 @@
 <h1 align="center">Kicking Off Hacktoberfest with ACM-VIT!</h1>
 <p align="center">
-<img src="https://i0.wp.com/wp.laravel-news.com/wp-content/uploads/2020/09/hacktoberfest2020.jpg?fit=2200%2C1100&ssl=1?resize=2200%2C1125" width="80%">
+<img src="https://raw.githubusercontent.com/Malika01/hacktoberfest-readme/master/Frame%202.png" width="80%">
 </p>
 
 <h2 align="center"> PROJECT TITLE </h2>
