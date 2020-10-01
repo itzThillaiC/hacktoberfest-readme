@@ -34,7 +34,8 @@ Short description about the project.
 <pre><code>git commit -m "your msg"</code></pre>
 * Push to remote. To do this, run 
 <pre><code>git push origin [YOUR-BRANCH-NAME]</code></pre>
-* Create a pull request. Go to the target repository and click on the "Compare & pull request" button. Add some details about your work and click on sumbit. 
+* Create a pull request. Go to the target repository and click on the "Compare & pull request" button. **Make sure your PR description mentions which issues you're solving.**
+<img src="https://drive.google.com/u/1/uc?id=1f9JKAR-kRvCRGxIs_SAvegaYDPx53T9G&export=download"></img>
 * Wait for your request to be accepted. 
 
 ---
