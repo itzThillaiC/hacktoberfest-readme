@@ -3,26 +3,52 @@
 <img src="https://raw.githubusercontent.com/vinamrak/hacktoberfest-readme/master/header.png">
 </p>
 
-<h2 align="center"> PROJECT TITLE </h2>
+<h2 align="center"> HURRICANE DAMAGE DETECTION </h2>
 
 <p align="center"> 
-Short description about the project.
+Rescuing the Flooded arena with the eyes of Computer Vision
 </p>
 
 <p>
   <a href="https://acmvit.in/" target="_blank">
     <img alt="made-by-acm" src="https://img.shields.io/badge/MADE%20BY-ACM%20VIT-blue?style=for-the-badge" />
   </a>
-    <!-- Uncomment the below line to add the license badge. Make sure the right license badge is reflected. -->
-    <!-- <img alt="license" src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" /> -->
-    <!-- forks/stars/tech stack in the form of badges from https://shields.io/ -->
+    <img alt="license" src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge"  />
+    <img alt="stars" src="https://img.shields.io/github/stars/ACM-VIT/hurricane-damage-detection?style=social" align="right"/> 
+    <img alt="forks" src="https://img.shields.io/github/forks/ACM-VIT/hurricane-damage-detection?style=social" align="right"/>
 </p>
 
 ---
+## Overview
+
+Idea : To identify the Flood prone areas using the Satellite images of the city
+
+Explanation : The goal is to build a model which identifies if a given region in Texas city isthe dataset given below, likely to contain flooding damage due to Hurricane Harvey.The basic required packages can be found in requirements.txt and can be installed using the pip command given below in usage. The dataset given below consists the Satellite images of Texas city after Hurricane Harvey and are divided into two groups (Damage and No damage). OpenCV can be majorly used to extract the features in the images.TesorFlow modules can also be used for pre-processing the images and other purposes. Usual Machine Learning algorithms or even Deep Learning methods can be applied to build the required model.
+
+---
+## Usage
+Run the following command to install all the required packages for this project
+<pre>pip install requirements.txt</pre>
+
+Lets get started!
+ <pre><code>
+ git remote add
+ git fetch 
+ git merge</code></pre>
+---
+
+## Dataset
+
+https://www.kaggle.com/kmader/satellite-images-of-hurricane-damage
+
+
+
+---
+
 ## Submitting a Pull Request
 
- * Fork the repository by clicking the fork button on top right corner of the page
- * Clone the target repository. To clone, click on the clone button and copy the https address. Then run 
+* Fork the repository by clicking the fork button on top right corner of the page
+* Clone the target repository. To clone, click on the clone button and copy the https address. Then run 
  <pre><code>git clone [HTTPS-ADDRESS]</code></pre>
 * Go to the cloned directory by running 
 <pre><code>cd [NAME-OF-REPO]</code></pre>
@@ -52,26 +78,30 @@ Short description about the project.
 
 ---
 
--_domain specific guidelines here_-
+## What counts as a PR?
+Check out our [issues](https://github.com/ACM-VIT/Shakespeare-Translate/issues) and try to solve them !
   
----
-## Overview
 
-The overview starts here. Random text about the project, motive, how, what, why etc.
 
 ---
-## Usage
-<!-- How To, Features, Installation etc. as subheadings in this section. example-->
+## Interacting with Issues
 
-Lets get started!
-```console
-git remote add
-git fetch
-git merge
-```
+  * There are helper issues that detail all you have to do to complete the project.
+      * Read the helper issues and work on the corresponding code in your fork of the repo.
+      * If you have some doubt regarding the 'help' given, comment below the issue.
+      * If you have some doubt not related to any 'helper issue/s' open, Open up a new issue, select doubt and fill in the template.
+  * If you want to provide some extra help to fellow participants, open up a new helper issue. Don't include any solution/code!
+  * Do not spam
+
 
 ---
+
 ## Authors
 
-**Authors:** <!-- [author1's name](link to their github profile), [author2's name](link to their github profile) .. -->  
-**Contributors:** <!-- Generate contributors list using this link - https://contributors-img.web.app/preview -->
+**Authors:** 
+[Thillai Chithambaram](https://github.com/itzThillaiC)
+[Manim Madhav](https://github.com/ManimMadhav)
+**Contributors:** 
+<a href="https://github.com/ACM-VIT/hurricane-damage-detection/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=ACM-VIT/hurricane-damage-detection" />
+</a>
