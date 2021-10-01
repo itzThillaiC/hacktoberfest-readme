@@ -100,7 +100,7 @@ Check out our [issues](https://github.com/ACM-VIT/Shakespeare-Translate/issues) 
 
 **Authors:** 
 [Thillai Chithambaram](https://github.com/itzThillaiC), 
-[Manim Madhav](https://github.com/ManimMadhav)
+[Manim Madhav](https://github.com/ManimMadhav)<br>
 **Contributors:** 
 <a href="https://github.com/ACM-VIT/hurricane-damage-detection/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=ACM-VIT/hurricane-damage-detection" />
